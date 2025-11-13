@@ -1,0 +1,1 @@
+5.Crie uma classe abstrata PublicacaoInstagram com atributos como autor, data e um método abstrato renderizar(). Implemente esse método em subclasses como foto e video.

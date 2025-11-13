@@ -1,0 +1,1 @@
+Crie uma classe abstrata ConteudoNetflix com atributos para titulo, duracao e um método abstrato reproduzir(). Em seguida, crie subclasses como filme e serie que implementem o método reproduzir().

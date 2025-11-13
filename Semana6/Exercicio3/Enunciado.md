@@ -1,0 +1,1 @@
+3.Crie uma classe abstrata produto com atributos nome, preco e métodos para getNome(), getPreco(). Agora crie classes concretas como livro, eletronico que estendem produto e adicionam seus próprios atributos e métodos específicos.

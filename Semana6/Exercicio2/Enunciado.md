@@ -1,0 +1,1 @@
+2.Você está criando um aplicativo com funcionalidades muito parecidas ao Spotify. Defina uma interface midia com métodos play(), pause(), next(), previous(). Implemente essa interface em classes como musica e podcast.
